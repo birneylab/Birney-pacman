@@ -45,7 +45,7 @@ HS_WIDTH = 600
 HS_HEIGHT = 150
 HS_XOFFSET = 100
 HS_YOFFSET = 400
-HS_ALPHA = 450
+HS_ALPHA = 255
 
 # new constants for the score's position
 SCORE_XOFFSET = 50  # pixels from left edge
@@ -97,7 +97,7 @@ def main():
     pygame.mouse.set_visible(False)
 
     try:
-        script_path = globals()['_dh'][0]+'/pacman-python-master'
+        script_path = globals()['_dh'][0]+'/Birney-pacman'
     except KeyError:
         script_path = os.path.abspath('')
     try:
