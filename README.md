@@ -1,5 +1,9 @@
 Welcome to Birney's own Pacman game!
 
+![start](./Screenshot_start-page.png)
+
+![level1](./Screenshot_level1.png)
+
 # Acknowledgment
 Source from Pacman by David Reilly, with contributions by Andy Sommerville (2007)
 
