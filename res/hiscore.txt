@@ -1,0 +1,15 @@
+0__The Birney group uses bioinformatics to study between individual differences__ewan
+35__Hannah is a postdoc studying the genetics and function of human retinal morphology using the UK biobank__hannah
+37__Logan is a postdoc who studies RNA modifications using direct RNA nanopore sequencing data__logan
+34__Ian is a predoc researching the genetics of social behaviour in Medaka fish__ian
+31__Tom is a senior research staff scientist: Overseer, copy number and genomes enthusiast__tomas
+36__Maria is a postdoc whose research involves combining pharmacy, health data science and machine learning__maria
+40__Marcio is a postdoc studying  the relation between swimming styles of medaka fish and single nucleotide polymorphisms__marcio
+42__Xiaolei is a postdoc focusing on using one million samples to study haplotypes between British and Danish populations__xiaolei
+41__Victoria is a visitor doing big data analysis of hospital records-exploring hidden relationships in routine patient data__victoria
+39__Shimin is a postdoc whose research entails counting the number of gene copies and correlating the number with human traits__shimin
+33__Anat is a visitor asking - Human T-cell Leukemia Virus inserts its 9kb genome into the host DNA, what are the consequences__anat
+32__Panos is a visitor who uses imaging and genetic data to understand how we develop detailed vision__panos
+38__Prajna is an intern estimating narrow-sense heritability and GxE interactions from medaka heartrate datasets__prajna
+43__Fanny is a postdoc studying phenotypes and genetics in Medaka and Covid patients__fanny
+
