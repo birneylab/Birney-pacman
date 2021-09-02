@@ -25,18 +25,18 @@ Simply double-click on the launch.bat script
 ### First way
 * Open a terminal (```Ctrl+Alt+T``` for Linux, ```Cmd+Space``` and type ```terminal``` for Mac)
 * manually install the pygame dependency: ```pip install pygame```
-* navigate to the main folder of the game (something like ```cd ~/Downloads/pacman-python-master```)
+* navigate to the main folder of the game (something like ```cd ~/Downloads/Birney-pacman-master```)
 * then you can launch the game: ```python pacman.py```
 
 ### Second way
 * Open a terminal (```Ctrl+Alt+T``` for Linux, ```Cmd+Space``` and type ```terminal``` for Mac)
-* navigate to the main folder of the game (something like ```cd ~/Downloads/pacman-python-master```)
+* navigate to the main folder of the game (something like ```cd ~/Downloads/Birney-pacman-master```)
 * make the launch.sh script executable: ```chmod u+x launch.sh```
 * launch the game through the script: ```./launch.sh```
 
 ### Third way
 * Open a terminal (```Ctrl+Alt+T``` for Linux, ```Cmd+Space``` and type ```terminal``` for Mac)
-* navigate to the main folder of the game (something like ```cd ~/Downloads/pacman-python-master```)
+* navigate to the main folder of the game (something like ```cd ~/Downloads/Birney-pacman-master```)
 * install the dependencies: ```python setup.py install```
 * then you can launch the game: ```python pacman.py```
 

@@ -1,3 +1,3 @@
 #!/bin/bash
-python ./pacman-large/setup.py
-python ./pacman-large/pacman.py
+python ./Birney-pacman/setup.py
+python ./Birney-pacman/pacman.py
