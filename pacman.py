@@ -1525,6 +1525,7 @@ def main():
             f = pygame.font.Font(os.path.join(script_path, "res", "VeraMoBd.ttf"), HS_FONT_SIZE)
             scoresurf = pygame.Surface((HS_WIDTH, HS_HEIGHT)) #, pygame.SRCALPHA)
             scoresurf.set_alpha(HS_ALPHA)
+            scoresurf.fill((0,0,0))
             linesurf = f.render(INITIAL_DESC.center(45), 1, (255, 255, 0))
             scoresurf.blit(linesurf, (0, 0))
             hs = self.gethiscores(results)  # Here we nee to change for the dict
